@@ -28,11 +28,12 @@
    
    An input file can contain an unlimited number of boards; each will be 
    processed separately.
-  
+   Template by:
    B. Bird    - 07/11/2014
    M. Simpson - 11/07/2015
+  
 */
-
+// Emma Reading - University of Victoria
 import java.util.Scanner;
 import java.io.File;
 import java.util.*;
@@ -91,8 +92,6 @@ public class NinePuzzle{
 	}
 
 	public static boolean SolveNinePuzzle(int[][] B){
-		
-		/* ... Your code here ... */
 
 		// configure 
 		int n = 3;
